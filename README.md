@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi there, Welcome 👋👋👋👋
+My name is Lam Viet Nguyen, I am a .Net Beckend Developer or I want to 🌱
 
 <!--
 **LamNV290304/LamNV290304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Lam's ](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
