@@ -3,6 +3,7 @@ My name is Lam Viet Nguyen, I am a .Net Beckend Developer or I want to 🌱
 
 ![Lam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LamNV290304&show_icons=true&theme=shadow_red)
 
+![Libarary](https://github-readme-stats.vercel.app/api/pin/?username=LamNV290304&repo=LibraryManagement&cache_seconds=86400&theme=gruvbox_light)
 <!--
 **LamNV290304/LamNV290304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
